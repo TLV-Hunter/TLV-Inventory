@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <!-- Background -->
+  <rect width="800" height="500" fill="#f9fafb" />
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#111827">Inventory Management System - Color Palette</text>
+  
+  <!-- LIGHT THEME -->
+  <text x="200" y="80" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#111827">Light Theme</text>
+  
+  <!-- Primary Colors -->
+  <rect x="50" y="100" width="80" height="40" rx="4" fill="#2563eb" />
+  <text x="90" y="170" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Primary</text>
+  <text x="90" y="185" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#2563eb</text>
+  
+  <rect x="140" y="100" width="80" height="40" rx="4" fill="#1d4ed8" />
+  <text x="180" y="170" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Primary Dark</text>
+  <text x="180" y="185" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#1d4ed8</text>
+  
+  <rect x="230" y="100" width="80" height="40" rx="4" fill="#3b82f6" />
+  <text x="270" y="170" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Primary Light</text>
+  <text x="270" y="185" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#3b82f6</text>
+  
+  <rect x="320" y="100" width="80" height="40" rx="4" fill="#eff6ff" />
+  <text x="360" y="170" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Primary BG</text>
+  <text x="360" y="185" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#eff6ff</text>
+  
+  <!-- Secondary Colors -->
+  <rect x="50" y="200" width="80" height="40" rx="4" fill="#059669" />
+  <text x="90" y="270" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Secondary</text>
+  <text x="90" y="285" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#059669</text>
+  
+  <rect x="140" y="200" width="80" height="40" rx="4" fill="#047857" />
+  <text x="180" y="270" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Secondary Dark</text>
+  <text x="180" y="285" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#047857</text>
+  
+  <rect x="230" y="200" width="80" height="40" rx="4" fill="#10b981" />
+  <text x="270" y="270" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Secondary Light</text>
+  <text x="270" y="285" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#10b981</text>
+  
+  <rect x="320" y="200" width="80" height="40" rx="4" fill="#ecfdf5" />
+  <text x="360" y="270" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Secondary BG</text>
+  <text x="360" y="285" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#ecfdf5</text>
+  
+  <!-- State Colors -->
+  <rect x="50" y="300" width="65" height="40" rx="4" fill="#d97706" />
+  <text x="82.5" y="370" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Warning</text>
+  <text x="82.5" y="385" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#d97706</text>
+  
+  <rect x="125" y="300" width="65" height="40" rx="4" fill="#dc2626" />
+  <text x="157.5" y="370" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Danger</text>
+  <text x="157.5" y="385" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#dc2626</text>
+  
+  <rect x="200" y="300" width="65" height="40" rx="4" fill="#0284c7" />
+  <text x="232.5" y="370" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Info</text>
+  <text x="232.5" y="385" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#0284c7</text>
+  
+  <rect x="275" y="300" width="65" height="40" rx="4" fill="#16a34a" />
+  <text x="307.5" y="370" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Success</text>
+  <text x="307.5" y="385" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#16a34a</text>
+  
+  <rect x="350" y="300" width="65" height="40" rx="4" fill="#ffffff" stroke="#e5e7eb" />
+  <text x="382.5" y="370" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Background</text>
+  <text x="382.5" y="385" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#ffffff</text>
+  
+  <!-- DARK THEME -->
+  <text x="600" y="80" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#111827">Dark Theme</text>
+  
+  <!-- Primary Colors -->
+  <rect x="450" y="100" width="80" height="40" rx="4" fill="#3b82f6" />
+  <text x="490" y="170" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Primary</text>
+  <text x="490" y="185" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#3b82f6</text>
+  
+  <rect x="540" y="100" width="80" height="40" rx="4" fill="#2563eb" />
+  <text x="580" y="170" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Primary Dark</text>
+  <text x="580" y="185" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#2563eb</text>
+  
+  <rect x="630" y="100" width="80" height="40" rx="4" fill="#60a5fa" />
+  <text x="670" y="170" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Primary Light</text>
+  <text x="670" y="185" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#60a5fa</text>
+  
+  <rect x="720" y="100" width="50" height="40" rx="4" fill="#1e3a8a" />
+  <text x="745" y="170" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Primary BG</text>
+  <text x="745" y="185" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#1e3a8a</text>
+  
+  <!-- Secondary Colors -->
+  <rect x="450" y="200" width="80" height="40" rx="4" fill="#10b981" />
+  <text x="490" y="270" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Secondary</text>
+  <text x="490" y="285" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#10b981</text>
+  
+  <rect x="540" y="200" width="80" height="40" rx="4" fill="#059669" />
+  <text x="580" y="270" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Secondary Dark</text>
+  <text x="580" y="285" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#059669</text>
+  
+  <rect x="630" y="200" width="80" height="40" rx="4" fill="#34d399" />
+  <text x="670" y="270" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Secondary Light</text>
+  <text x="670" y="285" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#34d399</text>
+  
+  <rect x="720" y="200" width="50" height="40" rx="4" fill="#065f46" />
+  <text x="745" y="270" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Secondary BG</text>
+  <text x="745" y="285" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#065f46</text>
+  
+  <!-- State Colors -->
+  <rect x="450" y="300" width="65" height="40" rx="4" fill="#fbbf24" />
+  <text x="482.5" y="370" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Warning</text>
+  <text x="482.5" y="385" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#fbbf24</text>
+  
+  <rect x="525" y="300" width="65" height="40" rx="4" fill="#ef4444" />
+  <text x="557.5" y="370" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Danger</text>
+  <text x="557.5" y="385" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#ef4444</text>
+  
+  <rect x="600" y="300" width="65" height="40" rx="4" fill="#38bdf8" />
+  <text x="632.5" y="370" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Info</text>
+  <text x="632.5" y="385" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#38bdf8</text>
+  
+  <rect x="675" y="300" width="65" height="40" rx="4" fill="#22c55e" />
+  <text x="707.5" y="370" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#111827">Success</text>
+  <text x="707.5" y="385" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="#6b7280">#22c55e</text>
+  
+  <!-- Dark Background -->
+  <rect x="50" y="410" width="350" height="50" rx="6" fill="#111827" />
+  <text x="225" y="442" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#f9fafb">Dark Theme Background: #111827</text>
+  
+  <!-- Light Background -->
+  <rect x="450" y="410" width="350" height="50" rx="6" fill="#f9fafb" stroke="#e5e7eb" />
+  <text x="625" y="442" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#111827">Light Theme Background: #f9fafb</text>
+</svg>

@@ -1,0 +1,10 @@
+/* Styles for the settings page */
+.settings-container {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.settings-container h2 {
+  margin-bottom: 20px;
+}

@@ -1,0 +1,26 @@
+.notification {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  padding: 1rem;
+  border-radius: 8px;
+  color: var(--text-inverted);
+  z-index: 1000;
+  box-shadow: var(--shadow);
+}
+
+.notification-success {
+  background-color: var(--success);
+}
+
+.notification-error {
+  background-color: var(--danger);
+}
+
+.notification-info {
+  background-color: var(--info);
+}
+
+.notification-warning {
+  background-color: var(--warning);
+}

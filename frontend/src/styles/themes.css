@@ -1,0 +1,37 @@
+:root {
+  --primary: #007bff;
+  --primary-dark: #0056b3;
+  --success: #28a745;
+  --success-dark: #1e7e34;
+  --danger: #dc3545;
+  --danger-dark: #b02a37;
+  --warning: #ffc107;
+  --info: #17a2b8;
+  --bg-main: #f8f9fa;
+  --bg-secondary: #ffffff;
+  --icon-color: #212529;
+  --text-primary: #212529;
+  --text-secondary: #6c757d;
+  --text-inverted: #ffffff;
+  --border: #dee2e6;
+  --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.dark-theme {
+  --primary: #66b0ff;
+  --primary-dark: #4d8cff;
+  --success: #5dd47a;
+  --success-dark: #4caf67;
+  --danger: #ff6666;
+  --danger-dark: #e65c5c;
+  --warning: #ffd966;
+  --info: #4dc9d6;
+  --bg-main: #212529;
+  --bg-secondary: #343a40;
+  --icon-color: #00FFFF; /* ปรับเป็นสีฟ้าเรืองแสงตามที่คุณเลือก */
+  --text-primary: #ffffff;
+  --text-secondary: #adb5bd;
+  --text-inverted: #212529;
+  --border: #495057;
+  --shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}

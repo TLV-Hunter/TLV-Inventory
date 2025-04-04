@@ -1,0 +1,192 @@
+/* 
+  Inventory Management System - Color Scheme
+  สำหรับการใช้งานภาษาไทย (th) และภาษาอังกฤษ (en)
+  ธีม Light และ Dark
+*/
+
+:root {
+  /* ========== LIGHT THEME ========== */
+  --light-primary: #2563eb;           /* สีหลัก - น้ำเงิน */
+  --light-primary-dark: #1d4ed8;      /* สีหลักเข้ม - สำหรับ hover */
+  --light-primary-light: #3b82f6;     /* สีหลักอ่อน - สำหรับไฮไลท์อ่อนๆ */
+  --light-primary-bg: #eff6ff;        /* สีพื้นหลังหลัก - น้ำเงินอ่อนมาก */
+
+  --light-secondary: #059669;         /* สีรอง - เขียว */
+  --light-secondary-dark: #047857;    /* สีรองเข้ม - สำหรับ hover */
+  --light-secondary-light: #10b981;   /* สีรองอ่อน - สำหรับไฮไลท์อ่อนๆ */
+  --light-secondary-bg: #ecfdf5;      /* สีพื้นหลังรอง - เขียวอ่อนมาก */
+
+  --light-warning: #d97706;           /* สีเตือน - ส้ม */
+  --light-danger: #dc2626;            /* สีอันตราย - แดง */
+  --light-info: #0284c7;              /* สีข้อมูล - ฟ้า */
+  --light-success: #16a34a;           /* สีสำเร็จ - เขียวเข้ม */
+
+  --light-grey-100: #f3f4f6;          /* สีเทาอ่อนสุด */
+  --light-grey-200: #e5e7eb;          /* สีเทาอ่อน */
+  --light-grey-300: #d1d5db;          /* สีเทา */
+  --light-grey-400: #9ca3af;          /* สีเทากลาง */
+  --light-grey-500: #6b7280;          /* สีเทาเข้ม */
+  --light-grey-600: #4b5563;          /* สีเทาเข้มสุด */
+
+  --light-text-primary: #111827;      /* สีข้อความหลัก */
+  --light-text-secondary: #374151;    /* สีข้อความรอง */
+  --light-text-tertiary: #6b7280;     /* สีข้อความระดับ 3 */
+  --light-text-inverted: #ffffff;     /* สีข้อความบนพื้นหลังเข้ม */
+
+  --light-bg-main: #ffffff;           /* สีพื้นหลักของระบบ */
+  --light-bg-secondary: #f9fafb;      /* สีพื้นรองของระบบ */
+  --light-bg-tertiary: #f3f4f6;       /* สีพื้นระดับ 3 */
+  
+  --light-border: #e5e7eb;            /* สีขอบ */
+  --light-border-light: #f3f4f6;      /* สีขอบอ่อน */
+  --light-border-dark: #d1d5db;       /* สีขอบเข้ม */
+
+  --light-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  --light-shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --light-shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+
+  /* ========== DARK THEME ========== */
+  --dark-primary: #3b82f6;           /* สีหลัก - น้ำเงิน */
+  --dark-primary-dark: #2563eb;      /* สีหลักเข้ม - สำหรับ hover */
+  --dark-primary-light: #60a5fa;     /* สีหลักอ่อน - สำหรับไฮไลท์อ่อนๆ */
+  --dark-primary-bg: #1e3a8a;        /* สีพื้นหลังหลัก - น้ำเงินเข้ม */
+
+  --dark-secondary: #10b981;         /* สีรอง - เขียว */
+  --dark-secondary-dark: #059669;    /* สีรองเข้ม - สำหรับ hover */
+  --dark-secondary-light: #34d399;   /* สีรองอ่อน - สำหรับไฮไลท์อ่อนๆ */
+  --dark-secondary-bg: #065f46;      /* สีพื้นหลังรอง - เขียวเข้ม */
+
+  --dark-warning: #fbbf24;           /* สีเตือน - เหลือง */
+  --dark-danger: #ef4444;            /* สีอันตราย - แดง */
+  --dark-info: #38bdf8;              /* สีข้อมูล - ฟ้า */
+  --dark-success: #22c55e;           /* สีสำเร็จ - เขียวสว่าง */
+
+  --dark-grey-100: #1f2937;          /* สีเทาเข้มสุด (กลับด้านกับ light) */
+  --dark-grey-200: #374151;          /* สีเทาเข้ม */
+  --dark-grey-300: #4b5563;          /* สีเทา */
+  --dark-grey-400: #6b7280;          /* สีเทากลาง */
+  --dark-grey-500: #9ca3af;          /* สีเทาอ่อน */
+  --dark-grey-600: #d1d5db;          /* สีเทาอ่อนสุด */
+
+  --dark-text-primary: #f9fafb;      /* สีข้อความหลัก */
+  --dark-text-secondary: #e5e7eb;    /* สีข้อความรอง */
+  --dark-text-tertiary: #9ca3af;     /* สีข้อความระดับ 3 */
+  --dark-text-inverted: #111827;     /* สีข้อความบนพื้นหลังสว่าง */
+
+  --dark-bg-main: #111827;           /* สีพื้นหลักของระบบ */
+  --dark-bg-secondary: #1f2937;      /* สีพื้นรองของระบบ */
+  --dark-bg-tertiary: #374151;       /* สีพื้นระดับ 3 */
+  
+  --dark-border: #374151;            /* สีขอบ */
+  --dark-border-light: #4b5563;      /* สีขอบอ่อน */
+  --dark-border-dark: #1f2937;       /* สีขอบเข้ม */
+
+  --dark-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.4), 0 1px 2px 0 rgba(0, 0, 0, 0.24);
+  --dark-shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.4), 0 2px 4px -1px rgba(0, 0, 0, 0.24);
+  --dark-shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.4), 0 4px 6px -2px rgba(0, 0, 0, 0.2);
+}
+
+/* ตัวอย่างการใช้งานสำหรับ Light Theme (ค่าเริ่มต้น) */
+body {
+  font-family: 'Sarabun', 'Roboto', sans-serif; /* ฟอนต์ที่อ่านง่ายทั้งภาษาไทยและอังกฤษ */
+  color: var(--light-text-primary);
+  background-color: var(--light-bg-main);
+}
+
+/* ตัวอย่างการใช้งานสำหรับ Dark Theme */
+body.dark-theme {
+  color: var(--dark-text-primary);
+  background-color: var(--dark-bg-main);
+}
+
+/* Components Examples */
+
+/* ปุ่มหลัก */
+.btn-primary {
+  background-color: var(--light-primary);
+  color: var(--light-text-inverted);
+  border-radius: 6px;
+  padding: 8px 16px;
+  font-weight: 500;
+  box-shadow: var(--light-shadow);
+  transition: all 0.2s ease;
+}
+
+.btn-primary:hover {
+  background-color: var(--light-primary-dark);
+  box-shadow: var(--light-shadow-md);
+}
+
+/* ปุ่มรอง */
+.btn-secondary {
+  background-color: var(--light-secondary);
+  color: var(--light-text-inverted);
+  border-radius: 6px;
+  padding: 8px 16px;
+  font-weight: 500;
+  box-shadow: var(--light-shadow);
+  transition: all 0.2s ease;
+}
+
+.btn-secondary:hover {
+  background-color: var(--light-secondary-dark);
+  box-shadow: var(--light-shadow-md);
+}
+
+/* Card Component */
+.card {
+  background-color: var(--light-bg-main);
+  border-radius: 8px;
+  border: 1px solid var(--light-border);
+  padding: 16px;
+  box-shadow: var(--light-shadow);
+  transition: box-shadow 0.3s ease;
+}
+
+.card:hover {
+  box-shadow: var(--light-shadow-md);
+}
+
+/* Dark Theme Variants */
+.dark-theme .btn-primary {
+  background-color: var(--dark-primary);
+  color: var(--dark-text-primary);
+  box-shadow: var(--dark-shadow);
+}
+
+.dark-theme .btn-primary:hover {
+  background-color: var(--dark-primary-dark);
+  box-shadow: var(--dark-shadow-md);
+}
+
+.dark-theme .btn-secondary {
+  background-color: var(--dark-secondary);
+  color: var(--dark-text-primary);
+  box-shadow: var(--dark-shadow);
+}
+
+.dark-theme .btn-secondary:hover {
+  background-color: var(--dark-secondary-dark);
+  box-shadow: var(--dark-shadow-md);
+}
+
+.dark-theme .card {
+  background-color: var(--dark-bg-secondary);
+  border: 1px solid var(--dark-border);
+  box-shadow: var(--dark-shadow);
+}
+
+.dark-theme .card:hover {
+  box-shadow: var(--dark-shadow-md);
+}
+
+/* Language Specific Styles (optional) */
+html[lang="th"] {
+  /* Thai-specific adjustments if needed */
+  line-height: 1.7; /* ช่วยให้อ่านง่ายขึ้นเมื่อมีสระบนล่าง */
+}
+
+html[lang="en"] {
+  /* English-specific adjustments if needed */
+  line-height: 1.5;
+}
